@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Get a crazy hairdo",
+    "id": 1,
+    "itemA": [
+      "Violet Blue",
+      "Crimson Red",
+      "Mint Green",
+      "Bubblegum Pink",
+      "Violet Purple",
+      "Tiger Orange",
+      "Silver",
+      "Platina blond"
+    ],
+    "itemB": [
+      "Mullet",
+      "Perm",
+      "Mohawk",
+      "Buzz Cut",
+      "Bangs",
+      "Bowl Cut",
+      "Lob (long bob)",
+      "Undercut"
+    ]
+  },
+  {
+    "name": "Get see a performance",
+    "id": 2,
+    "itemA": [
+      "Musical",
+      "Concert",
+      "Play",
+      "Comedy Show"
+    ],
+    "itemB": [
+      "alone",
+      "with two",
+      "with five",
+      "with your family",
+      "with friends",
+      "with collegues",
+      "with your partner"
+    ]
+  },
+  {
+    "name": "Learn something new",
+    "id": 3,
+    "itemA": [
+      "Online",
+      "In person"
+    ],
+    "itemB": [
+      "Cooking",
+      "An instrument",
+      "A language"
+    ]
+  },
+  {
+    "name": "Voluntering",
+    "id": 4,
+    "itemA": [
+      "Environmental conservation",
+      "Animal welfare",
+      "Construction",
+      "Medical",
+      "Teaching"
+    ],
+    "itemB": [
+      "Your hometown",
+      "Your own country",
+      "Abroad",
+      "Less developed countries"
+    ]
+  },
+  {
+    "name": "Try an extreme sport",
+    "id": 5,
+    "itemA": [
+      "Air",
+      "Land"
+    ],
+    "itemB": [
+      "Solo",
+      "Duo",
+      "Group"
+    ]
+  },
+  {
+    "name": "Buy an unnecessary purchase",
+    "id": 6,
+    "itemA": [
+      "Overly priced",
+      "Extremely cheap"
+    ],
+    "itemB": [
+      "Clothing",
+      "Furniture",
+      "Food",
+      "Technology",
+      "Self care"
+    ]
+  },
+  {
+    "name": "Get an pet",
+    "id": 7,
+    "itemA": [
+      "Fish",
+      "Mammal",
+      "Amphibian",
+      "Bird",
+      "Reptile",
+      "Invertebrates"
+    ],
+    "itemB": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ]
+  },
+  {
+    "name": "Go on a trip",
+    "id": 8,
+    "itemA": [
+      "Western Europe",
+      "Southern Europe",
+      "Northern Europ",
+      "Eastern Europe",
+      "Western Asia",
+      "Central Asia",
+      "Northern Africa"
+    ],
+    "itemB": [
+      "Airplane",
+      "Car",
+      "Bus",
+      "Bike",
+      "Train",
+      "Motorbike",
+      "By foot",
+      "Tandem",
+      "Helicopter"
+    ]
+  },
+  {
+    "name": "Experience a milestone",
+    "id": 9,
+    "itemA": [
+      "Romance",
+      "Work",
+      "School",
+      "Family",
+      "Personal Life"
+    ],
+    "itemB": [
+      "One",
+      "Two",
+      "Three"
+    ]
+  },
+  {
+    "name": "Make a new bucketlist",
+    "id": 10,
+    "itemA": [
+      "Before you turn 50",
+      "Before you marry",
+      "Before you become a parent",
+      "Before you die",
+      "Before you marry"
+    ],
+    "itemB": [
+      "5 items",
+      "15 items",
+      "20 items",
+      "25 items",
+      "30 items",
+      "35 items",
+      "40 items",
+      "50 items"
+    ]
+  }
+]

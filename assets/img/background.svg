@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="768px" viewBox="0 0 1440 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Background 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-52.3%" y="-52.3%" width="204.5%" height="204.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-64.2%" y="-64.2%" width="228.4%" height="228.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="49" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-87.0%" y="-87.0%" width="274.0%" height="274.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="49" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-153.1%" y="-153.1%" width="406.2%" height="406.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="49" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-103.5%" y="-103.5%" width="307.0%" height="307.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="49" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-88.6%" y="-88.6%" width="277.1%" height="277.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="49" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-127.8%" y="-127.8%" width="355.7%" height="355.7%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="49" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-41.4%" y="-41.4%" width="182.8%" height="182.8%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="49" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Visuals" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Copy">
+            <g id="Background-2" transform="translate(0.000000, -0.000000)">
+                <g id="Background">
+                    <rect id="Rectangle" fill="#05053C" x="0" y="0" width="1440" height="768"></rect>
+                    <circle id="Oval" fill="#EA04CD" opacity="0.80485026" filter="url(#filter-1)" cx="1238.5" cy="478.5" r="143.5"></circle>
+                    <circle id="Oval" fill="#00E9FF" opacity="0.870861235" filter="url(#filter-2)" cx="871.5" cy="269.5" r="114.5"></circle>
+                    <circle id="Oval" fill="#8312FE" filter="url(#filter-3)" cx="418.5" cy="419.5" r="84.5"></circle>
+                    <circle id="Oval" fill="#8312FE" filter="url(#filter-4)" cx="1283" cy="183" r="48"></circle>
+                    <circle id="Oval" fill="#0076FF" filter="url(#filter-5)" cx="813" cy="599" r="71"></circle>
+                    <circle id="Oval" fill="#8312FE" filter="url(#filter-6)" cx="955" cy="183" r="83"></circle>
+                    <circle id="Oval" fill="#EA04CD" filter="url(#filter-7)" cx="207.5" cy="104.5" r="57.5"></circle>
+                    <circle id="Oval" fill="#00E9FF" opacity="0.79734003" filter="url(#filter-8)" cx="264.5" cy="528.5" r="177.5"></circle>
+                    <rect id="Rectangle" fill="#FFFFFF" opacity="0.12844122" x="0" y="0" width="1440" height="768"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

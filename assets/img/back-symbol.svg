@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Arrow round left</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Visuals" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home/hair" transform="translate(-197.000000, -233.000000)" stroke="#C2C2C2">
+            <g id="Arrow-round-left" transform="translate(197.000000, 233.000000)">
+                <g>
+                    <circle id="Oval" cx="11.5" cy="11.5" r="11"></circle>
+                    <polyline id="Shape" points="12.9882353 7.44117647 8.79411765 11.6352941 12.9882353 15.8970588"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
